@@ -1,0 +1,41 @@
+{
+  "preview": [
+    {
+      "views": [
+        {
+          "id": "codesandbox.browser"
+        },
+        {
+          "id": "codesandbox.browser",
+          "closeable": true,
+          "options": {
+            "port": 10405,
+            "url": "https://v557g-10405.sse.codesandbox.io"
+          }
+        },
+        {
+          "id": "codesandbox.browser",
+          "closeable": true,
+          "options": {
+            "port": 5555,
+            "url": "https://v557g-5555.sse.codesandbox.io"
+          }
+        }
+      ]
+    },
+    {
+      "open": true,
+      "views": [
+        {
+          "id": "codesandbox.terminal"
+        },
+        {
+          "id": "codesandbox.console"
+        },
+        {
+          "id": "codesandbox.problems"
+        }
+      ]
+    }
+  ]
+}
